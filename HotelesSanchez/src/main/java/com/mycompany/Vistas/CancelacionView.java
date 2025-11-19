@@ -1,5 +1,5 @@
 package com.mycompany.Vistas;
 
-public class CancelacionView {
-    
+public class CancelacionView  {
+
 }
