@@ -1,6 +1,5 @@
 package com.mycompany.Vistas;
 
-
-public class LoginView  {
+public class LoginView {
 
 }
