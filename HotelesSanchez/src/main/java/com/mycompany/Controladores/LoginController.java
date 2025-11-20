@@ -1,6 +1,7 @@
 package com.mycompany.Controladores;
 
 import com.mycompany.Modelos.EmpleadoCBD;
+import com.mycompany.Vistas.CancelacionView;
 import com.mycompany.Vistas.LoginView;
 import com.mycompany.Vistas.ReservasView;
 
